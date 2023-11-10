@@ -16,3 +16,4 @@
 # optimize 9042
 # optimize 4016
 # fix 9507
+# fix 4245
