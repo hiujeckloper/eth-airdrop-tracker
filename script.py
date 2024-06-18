@@ -18,3 +18,4 @@
 # fix 9507
 # fix 4245
 # optimize 6666
+# optimize 6220
