@@ -1,3 +1,4 @@
 # auto-createdeth-abi==2.2.9
 aiohttp==1.1.6
 pydantic==2.8.4
+aiohttp==1.7.6
